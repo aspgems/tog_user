@@ -46,7 +46,7 @@ es:
       activation_code_missing: No se ha indicado el código de activación. Por favor, sigue la URL de tu e-mail.
       password_updated: Contraseña actualizada con éxitio para {{email}}
       password_reset_sent: Hemos enviado un correo a {{email}} con instrucciones para cambiar tu contraseña.
-      password_reset_not_found: El {{email}} no tiene cuenta en este sistema
+      password_reset_not_found: El email {{email}} no tiene cuenta en este sistema
       forgot_password: ¿Has olvidado tu contraseña?
       forgot_password_help: Tras rellenar este formulario, recibirás un correo electrónico con instrucciones para cambiar tu contraseña.
       already_registered: ¿Ya estás registrado?
@@ -68,7 +68,7 @@ es:
       sign_out: Has abandonado la sesión.
       create_account: Regístrate
       click_to_sign_up: Pulsa aquí para registrarte
-      sign_in: Registrarse
+      sign_in: Regístrate
     admin:
       error_saving: Ha sucedido algo que no permite grabar este usuario
       user_created: Usuario {{login}} creado correctamente!
@@ -104,7 +104,7 @@ es:
         changed: Contraseña cambiada
         not_changed: Contraseña no cambiada
         change: Cambiar contraseña
-        reset: Resetear la contraseña
+        reset: Restablecer contraseña
         reset_help: Introduce tu nueva contraseña
         current: Contraseña actual
         new: Nueva contraseña

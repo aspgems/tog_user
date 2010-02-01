@@ -44,7 +44,7 @@
     </h2>
     <div class="portlet_content">
       <% form_tag(admin_users_path, :method => :get) do %>
-        <%= text_field_tag :search_term, params[:search_term], :size => 22 %>
+        <%= text_field_tag :search_term, params[:search_term], :size => 14 %>
         <%= submit_tag " > " %>
       <% end %>      
       <small>
